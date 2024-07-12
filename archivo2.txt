@@ -1,0 +1,11 @@
+02
+$ mkdir mi_proyecto_git
+$ cd mi_proyecto_git/
+$ git init
+
+03
+$ echo "Descripcion del proyecto" > README.md
+$ cat > archivo1.txt
+$ touch archivo2.txt
+
+04
